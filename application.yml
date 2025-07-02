@@ -1,3 +1,5 @@
+  application:
+    name: ConfigServer-default
 eureka:
   client:
     fetch-registry: true
